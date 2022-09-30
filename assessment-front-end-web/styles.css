@@ -1,0 +1,66 @@
+body {
+  background: rgb(255, 255, 255);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid rgb(56, 48, 32);
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: rgb(80, 55, 8);
+}
+
+a:visited {
+	color: rgb(164, 112, 122);
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+h2{
+	color: rgb(255, 255, 255);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-image: url(https://images.unsplash.com/photo-1454372182658-c712e4c5a1db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80);
+}
+.Me{
+	display: flex;
+	background-color: rgb(212, 225, 227);
+	flex-direction: column;
+	justify-content: center;
+	align-items: baseline;
+
+}
+.Button{
+	background-color: yellow;
+	padding:10px 24px;
+	border-radius: 12px;
+}
+.Button2{
+	background-color: yellow;
+	padding:10px 24px;
+	border-radius: 12px;
+}
+.Button3{
+	background-color: yellow;
+	padding:10px 24px;
+	border-radius: 12px;
+}
